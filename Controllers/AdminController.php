@@ -24,6 +24,12 @@ Class AdminController extends Controller
         return $this->View();
        
     }
+    public function Login()
+    {
+        return $this->View();
+       
+    }
+
 
 }
 
